@@ -12,7 +12,7 @@
                     <value>false</value>
                 </componentInstanceProperties>
                 <componentInstanceProperties>
-                    <name>hideChatterActions</name>
+                    <name>hideChatterActions</name>  
                     <value>false</value>
                 </componentInstanceProperties>
                 <componentInstanceProperties>
