@@ -1,0 +1,18 @@
+Name: Salesforce-Project-M1
+ignoreDependencies: false
+VlocityDataPackKeys:
+    - CpqConfigurationSetup/CPQ Cart Preview Modal Use API
+    - CpqConfigurationSetup/CPQ Toast Message Log Level
+    - CpqConfigurationSetup/CpqCachePvtKey
+    - CpqConfigurationSetup/CpqNextPricingPlan
+    - OmniScript/CPQ_AssetViewerOrderFlow_Multi-Language
+    - VlocityCard/cpqAssetViewerContainer
+    - lwc/cfCpqAssetViewerContainer
+    - flexipages/DefaultAccountESMRecordPage1.flexipage
+VlocityTypesToFetch:
+    - CpqConfigurationSetup
+    - OmniScript
+    - VlocityCard
+SalesforceTypesToFetch:
+    - FlexiPage
+    - LightningComponentBundle
